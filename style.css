@@ -22,7 +22,7 @@ background-size: cover;
 
 #sessão3 {
     background-image: linear-gradient(180deg, rgb(0, 0, 0), rgb(13, 13, 15), rgb(12, 12, 12));
-height: 100vh;
+height: 100%;
 width: 100%;
 background-size: cover;
 }
@@ -37,7 +37,7 @@ nav {
 }
 
 nav h2 {
-    color: #fff;
+    color: #ffffff;
     font-size: 30px;
     cursor: pointer;
     letter-spacing: 3px;
